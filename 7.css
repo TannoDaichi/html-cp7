@@ -1,0 +1,30 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.main{
+    height: 400px;
+    background-image: url(img/mv.jpg);
+    background-size:cover; 
+    background-position:bottom center;
+}
+
+h1{
+    font-size: 24px;
+    padding-left: 20px;
+    padding-top: 20px;
+}
+
+main{
+    width: 840px;
+    display: block;
+    margin: 50px auto;
+}
+
+.camp{
+    border-bottom: solid 1px #d1d1d1;
+    margin-bottom: 30px;
+    padding-bottom: 30px;
+}
